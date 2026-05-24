@@ -1,13 +1,11 @@
----
-type: bug
-statut: En cours
-categorie: FrontEnd
-priorite: P1
-source: Playwright MCP Windows
-url: https://test.laravel/explorer
-date_creation: 2026-05-24 15:45:09
-image: "[[_TODO/captures/03-Bug - Explorer micro-services vide alors que membres actifs.png]]"
----
+| Champ | Valeur |
+| --- | --- |
+| statut | En cours |
+| categorie | FrontEnd |
+| priorite | P1 |
+| source | Playwright MCP Windows |
+| url | https://test.laravel/explorer |
+| date_creation | 2026-05-24 15:45:09 |
 
 ![Capture du bug](../captures/03-Bug%20-%20Explorer%20micro-services%20vide%20alors%20que%20membres%20actifs.png)
 

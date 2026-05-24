@@ -1,13 +1,11 @@
----
-type: bug
-statut: Fait
-categorie: FrontEnd
-priorite: P1
-source: Playwright MCP Windows
-url: https://test.laravel/membres
-date_creation: 2026-05-24 15:19:19
-image: "[[_TODO/captures/01-Bug - Annuaire avatars storage 403.png]]"
----
+| Champ | Valeur |
+| --- | --- |
+| statut | Fait |
+| categorie | FrontEnd |
+| priorite | P1 |
+| source | Playwright MCP Windows |
+| url | https://test.laravel/membres |
+| date_creation | 2026-05-24 15:19:19 |
 
 ![Capture du bug](../captures/01-Bug%20-%20Annuaire%20avatars%20storage%20403.png)
 

@@ -1,13 +1,11 @@
----
-type: bug
-statut: A faire
-categorie: FrontEnd
-priorite: P1
-source: Playwright MCP Windows - User 1
-url: https://test.laravel/dashboard
-date_creation: 2026-05-24 17:00:22
-image: "[[_TODO/captures/04-Bug - Lien profil public dashboard renvoie 404.png]]"
----
+| Champ | Valeur |
+| --- | --- |
+| statut | A faire |
+| categorie | FrontEnd |
+| priorite | P1 |
+| source | Playwright MCP Windows - User 1 |
+| url | https://test.laravel/dashboard |
+| date_creation | 2026-05-24 17:00:22 |
 
 ![Capture du bug](../captures/04-Bug%20-%20Lien%20profil%20public%20dashboard%20renvoie%20404.png)
 

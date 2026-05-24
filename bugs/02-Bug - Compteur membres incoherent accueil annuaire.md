@@ -1,13 +1,11 @@
----
-type: bug
-statut: A faire
-categorie: FrontEnd
-priorite: P1
-source: Playwright MCP Windows
-url: https://test.laravel/
-date_creation: 2026-05-24 15:23:40
-image: "[[_TODO/captures/02-Bug - Compteur membres incoherent accueil annuaire.png]]"
----
+| Champ | Valeur |
+| --- | --- |
+| statut | A faire |
+| categorie | FrontEnd |
+| priorite | P1 |
+| source | Playwright MCP Windows |
+| url | https://test.laravel/ |
+| date_creation | 2026-05-24 15:23:40 |
 
 ![Capture du bug](../captures/02-Bug%20-%20Compteur%20membres%20incoherent%20accueil%20annuaire.png)
 
